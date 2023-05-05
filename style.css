@@ -1,0 +1,130 @@
+*{
+    font-family: 'Bitter', serif;
+    /* margin: 0; */
+    /* padding: 0; */
+    box-sizing: border-box;
+    list-style: none;
+    
+}
+.homepg{
+    background-color: rgb(138, 126, 187);
+}
+.clothes{
+   font-size: 20px;
+   margin: 60% 0 0 60%;
+   /* font-family: 'Inter', sans-serif; */
+   font-family: 'Bitter', serif;
+}
+#img1{
+    margin-left: 20%;
+}
+.btn1{
+    padding: 8px;
+    background-color: rgb(228, 127, 160);
+    width: 150px;
+    margin-left: 60%;
+    border: none;
+    font-family: 'Bitter', serif;
+    font-size: 10px;
+    color: white;
+}
+
+.navigation {
+    text-decoration: none;
+    display: flex;
+    gap: 2em;
+    margin-left: 16%;
+    /* list-style: none; */
+    /* padding: 3px; */
+    /* display: inline; */
+    /* margin: 1rem; */
+    /* text-decoration: none; */
+    
+}
+#weekly{
+    font-size: 12px;
+}
+#dress{
+    font-size: 20px;
+}
+#tops{
+    font-size: 20px;
+    text-decoration: none;
+}
+.girls{
+    width: 80%;
+}
+.girlsimg{
+    display: flex;
+    margin: 0 5% 0 5%;
+    /* gap: 1em; */
+}
+.pg1txt{
+    font-size: 150%;
+    color: white;
+}
+.pic{
+    width: 40%;
+    height: 40%;
+    padding-left: 60%;
+}
+.pg1body{
+    display: flex;
+}
+.words{
+    padding-left: 5%;
+    font: 400%;
+}
+.w2{
+    font-size: 200%;
+}
+
+.btn2{
+    margin-right: 25%;
+}
+.pg3{
+    display: flex;
+}
+.q{
+    top: -500px;
+}
+.i1{
+    height:100%;
+    width: 100%;
+}
+.pg3header{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    gap: 10em;
+    font-size: 10px;
+    line-height: 2;
+}
+.btn3{
+    padding: 20px;
+    background-color: palevioletred;
+}
+
+.pg2header{
+    text-align: center;
+}
+.nj{
+    padding: 10px;
+    width: 200px;
+}
+#video{
+    width: 95%;
+}
+.subscribe{
+    padding: 8px;
+    background-color: rgb(228, 127, 160);
+    width: 150px;
+    border: none;
+    font-family: 'Bitter', serif;
+    font-size: 10px;
+    color: white;
+}
+.icons{
+    margin-left: 14%;
+}
