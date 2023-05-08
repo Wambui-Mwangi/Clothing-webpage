@@ -1,4 +1,4 @@
-@media(max-width: 1250px){
+@media(max-width: 760px){
     .navigation{
         gap: 1em;
 
@@ -17,4 +17,46 @@
     .footer{
         flex-direction: column;
     }
+    .pic{
+        width: 20%;
+        height: 20%;
+        /* padding-left: 60%; */
+    }
+    .pg1body{
+        flex-direction: column;
+    }
+    #video{
+        width: 65%;
+    }
+
+}
+@media(max-width: 420px){
+    .navigation{
+        gap: 1em;
+
+    }
+    .homepg{
+        flex-direction: column;
+    }
+    #img1{
+        margin-left: 0%;
+        margin-right: 70%;
+    }
+    .girlsimg{
+        flex-direction: column;
+    }
+    .footer{
+        flex-direction: column;
+    }
+    .pic{
+        width: 10%;
+        height: 10%;
+    }
+    .pg1body{
+        flex-direction: column;
+    }
+    #video{
+        width: 45%;
+    }
+
 }
